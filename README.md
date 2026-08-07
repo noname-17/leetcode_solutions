@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/noname-17/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noname-17/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/noname-17/leetcode_solutions/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/noname-17/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/noname-17/leetcode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/noname-17/leetcode_solutions/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/noname-17/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/noname-17/leetcode_solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/noname-17/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/noname-17/leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
